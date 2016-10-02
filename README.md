@@ -69,7 +69,7 @@ Verifique os campos necessários para cálculo do frete no [PDF da API dos Corre
 
 ```sh
   npm install
-  npm run watch # Using nodemon for hot-reloading
+  npm run watch # Utilizando nodemon para hot-reloading
 ```
 
 [url-server]: https://graphql-correios-buhpxhxlyr.now.sh/
